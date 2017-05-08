@@ -1,0 +1,27 @@
+{
+  "name": "alexa-42",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vince42school/alexa-42.git"
+  },
+  "keywords": [
+    "amazon",
+    "42"
+  ],
+  "author": "vince",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vince42school/alexa-42/issues"
+  },
+  "homepage": "https://github.com/Vince42school/alexa-42#readme",
+  "dependencies": {
+    "request": "^2.65.0",
+    "simple-oauth2": "^0.2.1"
+  }
+}
