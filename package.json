@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vince42school/alexa-42.git"
+    "url": "git+https://github.com/olddb/alexa.git"
   },
   "keywords": [
     "amazon",
@@ -17,9 +17,9 @@
   "author": "vince",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Vince42school/alexa-42/issues"
+    "url": "https://github.com/olddb/alexa/issues"
   },
-  "homepage": "https://github.com/Vince42school/alexa-42#readme",
+  "homepage": "https://github.com/olddb/alexa#readme",
   "dependencies": {
     "request": "^2.65.0",
     "simple-oauth2": "^0.2.1"
